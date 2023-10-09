@@ -1,8 +1,23 @@
 
+<br/>
 
+<div align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+            <img src="https://img.shields.io/badge/Hactoberfest-2023-blue"></img>
+</a>
+    <a href="">
+            <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
+        </a>   
+    
+</div>
 
-![Uploading d02db7a9 (1).png…]()
-
+<div align="center">
+  <sub>Built with ❤︎ by
+  <a href="https://twitter.com/Codekavya">Dès Vu</a> and
+  <a href="https://github.com/Parajulibkrm/Hacktoberfest-Nepal/graphs/contributors">
+    contributors
+  </a>
+</div>
 
 # Beginner's Guide to Hacktoberfest
 
