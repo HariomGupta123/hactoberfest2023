@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-            <img src="https://img.shields.io/badge/Hacktoberfest%202023-Win%20digital-kit-reward-critical"></img>
+            <img src="https://img.shields.io/badge/Hactoberfest-2023-blue"></img>
 </a>
     <a href="https://github.com/Parajulibkrm/Hacktoberfest-Nepal/fork">
             <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
