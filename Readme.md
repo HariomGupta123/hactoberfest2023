@@ -13,8 +13,8 @@
 
 <div align="center">
   <sub>Built with ❤︎ by
-  <a href="https://twitter.com/Codekavya">Dès Vu</a> and
-  <a href="https://github.com/Parajulibkrm/Hacktoberfest-Nepal/graphs/contributors">
+  <a href="https://www.facebook.com/DesVuTechnologies">Dès Vu</a> and
+  <a href="https://hacktoberfestnepal2023.vercel.app/">
     contributors
   </a>
 </div>
