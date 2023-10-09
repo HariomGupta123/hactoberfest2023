@@ -1,4 +1,24 @@
+![](https://raw.githubusercontent.com/Shankarkharel/hactoberfest2023/master/Images/hacktoberfestMeetupNepal.png)
 
+<br/>
+
+<div align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+            <img src="https://img.shields.io/badge/Hacktoberfest%202020-Win%20a%20T--Shirt-critical"></img>
+</a>
+    <a href="https://github.com/Parajulibkrm/Hacktoberfest-Nepal/fork">
+            <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
+        </a>   
+    
+</div>
+
+<div align="center">
+  <sub>Built with ❤︎ by
+  <a href="https://twitter.com/Codekavya">Dès Vu</a> and
+  <a href="https://github.com/Parajulibkrm/Hacktoberfest-Nepal/graphs/contributors">
+    contributors
+  </a>
+</div>
 
 # Beginner's Guide to Hacktoberfest
 
