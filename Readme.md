@@ -1,9 +1,5 @@
 
 
-
- [![Hactoberfest]()](https://hacktoberfest.com/profile/)
-
-
 # Beginner's Guide to Hacktoberfest
 
 Welcome to Hacktoberfest, a month-long celebration of open source software! This guide will help you get started and make your contributions count.
