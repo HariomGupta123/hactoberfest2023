@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/Shankarkharel/hactoberfest2023/master/Images/hacktoberfestMeetupNepal.png)
 
 <br/>
 
@@ -6,7 +5,7 @@
     <a href="https://hacktoberfest.digitalocean.com/">
             <img src="https://img.shields.io/badge/Hactoberfest-2023-blue"></img>
 </a>
-    <a href="https://github.com/Parajulibkrm/Hacktoberfest-Nepal/fork">
+    <a href="">
             <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
         </a>   
     
