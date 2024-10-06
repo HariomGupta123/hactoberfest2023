@@ -1,0 +1,123 @@
+/* Reset some default browser styles */
+body, h1, h2, p, ul, ol {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Basic styling for the header */
+header {
+    background-color: #292b2c;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+/* Main content container */
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Style sections */
+section {
+    margin-bottom: 30px;
+    border: 1px solid #ddd;
+    padding: 25px;
+    background-color: #fafafa;
+    border-radius: 8px;
+}
+
+/* Instructions */
+.instructions p {
+    margin-bottom: 15px;
+}
+
+.instructions ol {
+    margin-left: 20px;
+    list-style-type: decimal;
+}
+
+.instructions li {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+/* Contributors section */
+.contributors ul {
+    list-style: none;
+    margin-top: 15px;
+}
+
+.contributors ul li {
+    margin-bottom: 10px;
+}
+
+.contributors a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: color 0.3s;
+}
+
+.contributors a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+/* Style headings */
+h2 {
+    font-size: 1.8rem;
+    color: #292b2c;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+/* Style paragraphs */
+p {
+    font-size: 1rem;
+    color: #555;
+}
+
+/* Style the footer */
+footer {
+    background-color: #292b2c;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+    font-size: 0.9rem;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+a:hover {
+    color: #0056b3;
+}
